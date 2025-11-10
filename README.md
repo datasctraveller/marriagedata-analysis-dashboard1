@@ -7,7 +7,15 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 # Dataset Used
 - <a href="https://github.com/datasctraveller/marriagedata-analysis-dashboard1/blob/main/newversionofmarriagestatic.xlsx">DataSet</a>
 # Questions (KPIs)
-
+- Total number of marriage in 24 years.
+- Which year had The highest number of marriages between 2001 and 2024?
+- Which year had The lowest number of marriages between 2001 and 2024?
+- Total number of marriages by year.
+- Rate of change by year.
+- Which season and which month had the lowest number of marriages in each year?
+- Which season and which month had the highest number of marriages in each year?
+- Which provinces had the top 10 highest total number of marriages?
+- Which provinces had the top 10 lowest total number of marriages?
 - Dashboard Interaction <a href="https://github.com/datasctraveller/marriagedata-analysis-dashboard1/blob/main/Proje-1.jpg">View Dashboard</a>
 
 
