@@ -6,4 +6,8 @@ I have an excel dataset file about total number of marriages by months and provi
 invastigating impact of economy conditions,the pandemic, other crisis-related factors.
 # Dataset Used
 - <a href="https://github.com/datasctraveller/marriagedata-analysis-dashboard1/blob/main/newversionofmarriagestatic.xlsx">DataSet</a>
+# Questions (KPIs)
+
+- Dashboard Interaction <a href="https://github.com/datasctraveller/marriagedata-analysis-dashboard1/blob/main/Proje-1.jpg">View Dashboard</a>
+
 
