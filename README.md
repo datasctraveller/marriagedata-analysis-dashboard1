@@ -2,6 +2,8 @@
 I  am developing comprehensive  a data analyse project using microsoft excel tool.  This project includes several several stages: first collecting data, cleaninig it, visualizing results and sharing findings 
 
 # Project Objective
-I have dataset excel file about total number of marriages by months and proviences over the 2001 and 2024. 
+I have an excel dataset file about total number of marriages by months and proviences from  2001 to 2024. I would like to analyze how marriage numbers have changed annually, monthly, seasonally. I also interested in 
+invastigating impact of economy conditions,the pandemic, other crisis-related factors.
 # Dataset Used
 - <a href="https://github.com/datasctraveller/marriagedata-analysis-dashboard1/blob/main/newversionofmarriagestatic.xlsx">DataSet</a>
+
