@@ -20,7 +20,7 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 ## Process
 - Created pivot tables based on the analysis questions.
 - Reviewed data types, formats, missing values, and value consistency.
-- Combined all pivot tables into a single dashboard (
+- Combined all pivot tables into a single dashboard (slicers were not used).
 
 
 
