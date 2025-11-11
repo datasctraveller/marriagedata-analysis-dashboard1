@@ -23,6 +23,13 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 - Combined all pivot tables into a single dashboard (slicers were not used).
 ## Dashboard
 ![Screenshot of Dashboard](https://github.com/datasctraveller/marriagedata-analysis-dashboard1/blob/main/Proje-1.jpg)
+## Project Insight
+- January, February, December( winter season) the three months with the lowest total number of marriages between 2001 and 2024
+- September, July, August(summer season) the three months with the highest total number of marriages between 2001 and 2024
+- Top 10 provinces with the highest total number of marriages: İstanbul, Ankara, İzmir, Bursa, Konya, Adana, Şanlıurfa, Antalya, Gaziantep.
+- Top 10 provinces with the lowest total number of marriages:  Tunceli, Bayburt, Ardahan, Gümüşhane, Artvin, Kilis, Bilecik, Çankırı, Bartın, Erzincan
+- 2008 year the highest total number of marriages between 2001 and 2024.
+- 2020 year the lowest total number of marriages between 2001 and 2024.
 
 
 
