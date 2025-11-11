@@ -22,6 +22,7 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 - Reviewed data types, formats, missing values, and value consistency.
 - Combined all pivot tables into a single dashboard (slicers were not used).
 ## Dashboard
+![Screenshot of Dashboard]()
 
 
 
