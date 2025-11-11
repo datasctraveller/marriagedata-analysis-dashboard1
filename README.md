@@ -21,6 +21,8 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 - Created pivot tables based on the analysis questions.
 - Reviewed data types, formats, missing values, and value consistency.
 - Combined all pivot tables into a single dashboard (slicers were not used).
+## Dashboard
+
 
 
 
