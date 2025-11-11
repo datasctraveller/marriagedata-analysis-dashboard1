@@ -1,4 +1,4 @@
-# marriage-data-analysis-dashboard1
+# marriage-data-analysis-dashboard
 I  am developing comprehensive  a data analyse project using microsoft excel tool.  This project includes several several stages: first collecting data, cleaninig it, visualizing results and sharing findings 
 
 # Project Objective
@@ -35,6 +35,7 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 - 2020 the Covid-19 pandemic contributed to series contraction in the Turkey's economy, along with workforce losses and sectoral instability. The service industry and tourism were among most affected areas
 - There was a sharp increase in 2003, with a rate of change of 10.84%
 - There was a record peak in 2021 with a rate of change of 15.32%
+ 
   
 
 
