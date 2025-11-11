@@ -30,6 +30,12 @@ invastigating impact of economy conditions,the pandemic, other crisis-related fa
 - Top 10 provinces with the lowest total number of marriages:  Tunceli, Bayburt, Ardahan, Gümüşhane, Artvin, Kilis, Bilecik, Çankırı, Bartın, Erzincan
 - 2008 year the highest total number of marriages between 2001 and 2024.
 - 2020 year the lowest total number of marriages between 2001 and 2024.
+- According to the annual rate of change chart the 2001 there was a sharp decline in the growth rate, economic crisis contributed to a decrease in total number of marriages. The main reasons are political instability and the lack of medium-long term economical policies.
+- the financial crisis  started in the USA and  affected others countries around the world in 2009.
+- 2020 the Covid-19 pandemic contributed to series contraction in the Turkey's economy, along with workforce losses and sectoral instability. The service industry and tourism were among most affected areas
+- There was a sharp increase in 2003, with a rate of change of 10.84%
+- There was a record peak in 2021 with a rate of change of 15.32%
+- 
 
 
 
